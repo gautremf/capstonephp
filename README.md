@@ -1,0 +1,2 @@
+# capstonephp
+PHP sucks
